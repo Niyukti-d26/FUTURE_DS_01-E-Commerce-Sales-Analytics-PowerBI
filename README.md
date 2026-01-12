@@ -1,6 +1,8 @@
 # FUTURE_DS_01-E-Commerce-Sales-Analytics-PowerBI
 Interactive Power BI dashboard analyzing e-commerce sales trends, top products, and regional performance.
 
+<img width="1300" height="736" alt="e- commerce task 1" src="https://github.com/user-attachments/assets/ad7f00d0-7efd-45f4-a055-bec9ba73be8f" />
+
 📊 E-Commerce Sales Analytics Dashboard (Power BI)
 
 This project focuses on analyzing e-commerce sales data to uncover insights that help business owners and decision-makers understand sales performance, customer behavior, and regional trends.
